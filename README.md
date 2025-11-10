@@ -12,7 +12,7 @@
 
 ### 📌 Information
 - Class: IVP001
-- Instructor: PhD. Lê Hoành Sử
+- Instructor: PhD. Trần Quang Thắng & PhD. Lê Hoành Sử
 - Group Members:
   - Nguyễn Phạm Quốc Đạt
   - Huỳnh Tài Đức
