@@ -1,5 +1,3 @@
-# Bài tập
-
 <h1 align="center">📘 University of Economics Ho Chi Minh City (UEH)</h1>
 <h2 align="center">Project Report</h2>
 
@@ -16,11 +14,11 @@
 - Class: IVP001
 - Instructor: PhD. Lê Hoành Sử
 - Group Members:
-- Nguyễn Phạm Quốc Đạt (ID: 31231026641)
-- Huỳnh Tài Đức
-- Lâm Nguyên Khang
-- Nguyễn Hoàng Huân
-- Vũ Thái Tân
+  - Nguyễn Phạm Quốc Đạt (ID: 31231026641)
+  - Huỳnh Tài Đức
+  - Lâm Nguyên Khang
+  - Nguyễn Hoàng Huân
+  - Vũ Thái Tân
 
 ---
 
