@@ -47,7 +47,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=qdatether&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ### 🙏 Lời cảm ơn
 Nhóm chúng em xin chân thành cảm ơn dự án **Vnstock** đã cung cấp giải pháp phân tích chứng khoán mở và mạnh mẽ dành cho cộng đồng người Việt. Các công cụ và tài nguyên toàn diện của Vnstock đã góp phần quan trọng vào sự thành công của dự án này.
 
