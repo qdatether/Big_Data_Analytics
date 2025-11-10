@@ -14,7 +14,7 @@
 - Class: IVP001
 - Instructor: PhD. Lê Hoành Sử
 - Group Members:
-  - Nguyễn Phạm Quốc Đạt (ID: 31231026641)
+  - Nguyễn Phạm Quốc Đạt
   - Huỳnh Tài Đức
   - Lâm Nguyên Khang
   - Nguyễn Hoàng Huân
