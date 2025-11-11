@@ -14,11 +14,11 @@
 - Class: IVP001
 - Instructor: PhD. Trần Quang Thắng & PhD. Lê Hoành Sử
 - Group Members:
-  - Nguyễn Phạm Quốc Đạt
-  - Huỳnh Tài Đức
-  - Lâm Nguyên Khang
-  - Nguyễn Hoàng Huân
-  - Vũ Thái Tân
+  - Nguyễn Phạm Quốc Đạt - 31231026641
+  - Huỳnh Tài Đức - 31231023810
+  - Lâm Nguyên Khang - 31231021496
+  - Nguyễn Hoàng Huân - 31231022194
+  - Vũ Thái Tân - 31231024280
 
 ---
 
