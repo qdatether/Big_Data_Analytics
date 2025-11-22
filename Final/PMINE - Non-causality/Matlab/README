@@ -1,0 +1,8 @@
+This repository contains folders containing Matlab files and files. A short description of the folders and files in this directory follows.
+1. GapFillingFwBw : Matlab files for the correction of the artifact of transcranial magnetic stimulation (TMS) on electroencephalograms (EEG). For the correction, a gap filling method is used.  
+2. GrangerCausalityMeasures : Diverse linear and nonlinear measures of Granger causality on multivariate time series: Granger causality index (GCI), conditional GCI (CGCI), transfer entropy (TE), partial TE (PTE).
+3. PMIIME : The measure of partial mutual information from mixed embedding (PMIME) for the estimation of direct (linear and nonliinear) causal effects (Granger causality idea) from multivariate time series (particularly suitable for high dimensional time series).
+4. PTERV.m : A single file implementing the measure of partial transfer entropy on ranked vectors (PTERV) for the estimation of direct (linear and nonliinear) causal effects (Granger causality idea) from multivariate time series (problematic for high dimensional time series, suitable also for nonstationary time series).
+5. RCGCI : The measure of restricted conditional Granger causality index (RCGCI) for the estimation of direct linear causal effects (Granger causality idea) from multivariate time series (particularly suitable for high dimensional time series).
+
+Updated 18/1/2021 by Dimitris Kugiumtzis
